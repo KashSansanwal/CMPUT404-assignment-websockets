@@ -20,6 +20,8 @@ pip install -r requirements.txt
 Contributors / Licensing
 ========================
 
+Kashish Sansanwal
+
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 freetests.py is LICENSE'D under a BSD-like license:
